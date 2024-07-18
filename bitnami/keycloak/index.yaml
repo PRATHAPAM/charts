@@ -3,6 +3,6 @@ entries:
   Chart Name:
    - name: keycloak
       version: "24.0.5"
-  #     urls: 
-  #       - URL to chart archive (e.g., chart-name-version.tgz)
-generated: <date> 
+        urls: 
+         - keycloak
+generated: 07/02/2024
